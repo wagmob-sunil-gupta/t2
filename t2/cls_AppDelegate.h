@@ -13,11 +13,5 @@
 @property (strong, nonatomic) UIWindow *window;
 
 @end
-    // hello gsgsfd
-
-    //ram
-
-    //popopop
-
-
+    // 
     //898
